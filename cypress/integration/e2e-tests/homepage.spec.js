@@ -3,7 +3,7 @@ import { reservepage } from '../../support/page-objects/reserve_page'
 import { purchasepage } from '../../support/page-objects/purchase_page'
 
 
-describe('Home page test',() => {
+describe('Flight app e2e tests',() => {
     beforeEach(function () {
         cy.visit('/');
     });
