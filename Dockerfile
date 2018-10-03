@@ -13,6 +13,6 @@ COPY cypress ./cypress
 ENV CI=1
 
 # install NPM dependencies and Cypress binary
-RUN npm install
+RUN npm ci
 # check if the binary was installed successfully
 RUN $(npm bin)/cypress verify
