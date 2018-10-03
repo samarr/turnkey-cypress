@@ -1,0 +1,7 @@
+{
+  "vacationpage":"vacation.html",
+  "homepage":"index.php",
+  "reservepage":"reserve.php",
+  "purchasepage": "purchase.php",
+  "confirmationpage": "confirmation.php"
+}
