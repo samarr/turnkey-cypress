@@ -1,6 +1,6 @@
 {
   "name": "turnkey-cypress",
-  "version": "1.0",
+  "version": "5.6.0",
   "description": "This is an example app used to showcase Cypress.io testing.",
   "main": "index.js",
   "scripts": {
