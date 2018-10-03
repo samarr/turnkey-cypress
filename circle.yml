@@ -21,6 +21,8 @@ jobs:
           command: npm start
           background: true
       - run: npm run e2e:qa-headless
+      - store_artifacts:
+          path: cypress/videos
 
 workflows:
   version: 2
