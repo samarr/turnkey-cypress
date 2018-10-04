@@ -9,7 +9,7 @@ describe('Flight app e2e tests',() => {
     });
 
     it('Plan a flight search', function () {
-        var depature_cityname = 'Delhi';
+        var depature_cityname = 'Boston';
         var destination_cityname = 'New York';
         var expectedPageUrlString = 'reserve.php';
         var flightno = '4346';

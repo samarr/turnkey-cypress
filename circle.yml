@@ -23,6 +23,7 @@ jobs:
       - run: npm run e2e:qa-headless
       - store_artifacts:
           path: cypress/videos
+          path: cypress/screenshots
 
 workflows:
   version: 2
