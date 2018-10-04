@@ -2,6 +2,7 @@
 
 [![CircleCI](https://circleci.com/gh/samarr/turnkey-cypress/tree/master.svg?style=svg)](https://circleci.com/gh/samarr/turnkey-cypress/tree/master)
 Test app url: http://blazedemo.com/
+
 Running the test in local:
 ```sh
     $ Install cypress: npm install cypress --save-dev
