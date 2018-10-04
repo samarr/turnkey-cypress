@@ -1,6 +1,6 @@
-# Cypress demo framework
+# Cypress demo framework [![CircleCI](https://circleci.com/gh/samarr/turnkey-cypress/tree/master.svg?style=svg)](https://circleci.com/gh/samarr/turnkey-cypress/tree/master)
 
-[![CircleCI](https://circleci.com/gh/samarr/turnkey-cypress/tree/master.svg?style=svg)](https://circleci.com/gh/samarr/turnkey-cypress/tree/master)
+
 Test app url: http://blazedemo.com/
 
 Running the test in local:
@@ -14,5 +14,5 @@ Running the test in local:
 ### Running via docker and npm:
 -  Run in headless mode
 ```sh
-    $ npm run e2e:qa-headless
+    $ npm run e2e:qa-headless 
  ```
